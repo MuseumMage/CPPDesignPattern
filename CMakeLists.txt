@@ -3,3 +3,4 @@ project (CPPDesignPatterns)
 
 add_subdirectory(FactoryMethod)
 add_subdirectory(AbstractFactory)
+add_subdirectory(BuilderMethod)
