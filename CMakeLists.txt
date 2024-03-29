@@ -12,3 +12,4 @@ add_subdirectory(StrategyMethod)
 
 add_subdirectory(SingletonMethod)
 add_subdirectory(PrototypeMethod)
+add_subdirectory(CompositeMethod)
