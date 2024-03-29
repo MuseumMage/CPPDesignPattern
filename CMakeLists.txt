@@ -9,3 +9,5 @@ add_subdirectory(CommandMethod)
 add_subdirectory(IteratorMethod)
 add_subdirectory(ObserverMethod)
 add_subdirectory(StrategyMethod)
+
+add_subdirectory(SingletonMethod)
