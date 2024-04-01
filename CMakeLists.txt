@@ -18,3 +18,5 @@ add_subdirectory(FacadeMethod)
 add_subdirectory(MediatorMethod)
 add_subdirectory(StateMethod)
 add_subdirectory(TemplateMethod)
+
+add_subdirectory(BridgeMethod)
