@@ -21,3 +21,4 @@ add_subdirectory(TemplateMethod)
 
 add_subdirectory(BridgeMethod)
 add_subdirectory(FlyweightMethod)
+add_subdirectory(ProxyMethod)
